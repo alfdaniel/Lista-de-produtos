@@ -1,8 +1,8 @@
 # Lista-de-produtos
 
-##Sistema simples que organiza uma lista de produtos.
+## Sistema simples que organiza uma lista de produtos.
 
-###Tecnologia utilizada:
+### Tecnologia utilizada:
   - Angular
 
 Segue exemplos de algumas telas:
