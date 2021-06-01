@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Tv box",
+      "price": 500
+    },
+    {
+      "name": "carango",
+      "price": "100.00",
+      "id": 4
+    },
+    {
+      "name": "Mesa sem pé",
+      "price": "100000",
+      "id": 6
+    },
+    {
+      "name": "Monitor utrawide",
+      "price": "2000",
+      "id": 10
+    },
+    {
+      "name": "Mesa sem pé",
+      "price": "10",
+      "id": 11
+    },
+    {
+      "name": "Mesa sem pé",
+      "price": "10",
+      "id": 12
+    },
+    {
+      "name": "carro de mão",
+      "price": "55.00",
+      "id": 13
+    }
+  ]
+}
